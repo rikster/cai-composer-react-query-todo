@@ -1,5 +1,3 @@
-import axios from 'axios';
-
 export interface Todo {
   id: number;
   title: string;
